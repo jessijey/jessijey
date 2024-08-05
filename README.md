@@ -1,4 +1,4 @@
-# Olá, eu sou Jessica! 👋
+# Olá, sou Jessica! 👋
 
 Bem-vindo ao meu perfil!
 
