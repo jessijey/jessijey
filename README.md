@@ -6,7 +6,7 @@ Sou estudante de **Front-End** na **EBAC** (Escola Britânica de Artes Criativas
 
 # 💻 Sobre mim
 
-- 🔭 Atualmente, estou aprendendo sobre HTML, CSS e JavaScript.
+- 🔭 Atualmente, estou aprendendo sobre JavaScript, HTML5 e CSS3.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
