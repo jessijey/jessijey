@@ -1,10 +1,10 @@
-## Olá, eu sou Jessica! 👋
+# Olá, eu sou Jessica! 👋
 
 Bem-vindo ao meu perfil!
 
 Sou estudante de **Front-End** na **EBAC** (Escola Britânica de Artes Criativas), onde estou desenvolvendo minhas habilidades em programação e design para criar experiências web incríveis. 
 
-# 💻 Sobre mim
+## 💻 Sobre mim
 
 - 🔭 Atualmente, estou aprendendo sobre JavaScript, HTML5 e CSS3.
 
